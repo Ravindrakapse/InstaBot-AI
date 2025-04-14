@@ -92,7 +92,6 @@ torch = ">=2.6.0"
 ---
 
 ## 🏆 Future Improvements
-- Integrate **GPT-4** for better prompt engineering.
 - Allow users to customize **content themes**.
 - Implement **multi-account posting**.
 
